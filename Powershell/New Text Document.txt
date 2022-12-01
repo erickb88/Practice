@@ -1,0 +1,5 @@
+Elevated permission
+Rename computer 
+Add to domain
+Grant permission to specific users
+Apply and restart
